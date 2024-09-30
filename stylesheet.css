@@ -39,14 +39,14 @@
  transition-timing-function: ease-out;
 }
 .bt {
- border: 0;
- padding: 10px;
- width: 454px;
- height: 50px;
- display: inline-block;
- margin: 10px;
- cursor: pointer;
- border-radius: 4px;
+  border: 0;
+  padding: 10px;
+  width: 342px;
+  height: 50px;
+  display: inline-block;
+  margin: 10px;
+  cursor: pointer;
+  border-radius: 4px;
  background-color: #488F31;
 }
 a {
